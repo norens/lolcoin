@@ -1,0 +1,9 @@
+Building LolCoin
+
+See doc/readme-qt.rst for instructions on building lolcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LolCoin.
+
+See doc/build-*.txt for instructions on building lolcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of LolCoin.
